@@ -30,7 +30,7 @@ function Card({ cart, setCart, data, index }) {
             {data.original ? (
               <div>
                 <span className="text-muted text-decoration-line-through">
-                  {data.originalPrice}
+                  {data.originalPrices}
                 </span>
                 {data.price}
               </div>
