@@ -27,7 +27,7 @@ function TopBar({ cart, setCart }) {
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#!">
-                About
+                 About
               </a>
             </li>
             <li className="nav-item dropdown">
